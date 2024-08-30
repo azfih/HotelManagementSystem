@@ -4,56 +4,94 @@
 
 The Hotel Management System is a Java Swing application designed to manage various aspects of hotel operations. It provides functionality for managing reservations, rooms, staff, inventory, and hotel information. Users can interact with the system through a graphical user interface (GUI) with options for guests, staff, and managers.
 
+
 **Features**
 
 **Guest Operations:**
+
 1:Enter new reservations.
+
 2:Delete existing reservations.
+
 3:View all rooms' availability.
 
+
 **Manager Operations:**
+
 1:Manage reservations.
+
 2:Manage rooms.
+
 3:Manage staff.
+
 4:Manage inventory.
+
 5:Manage hotel information.
 
+
 **Staff Operations:**
+
+
 1:View staff information.
+
 2:Add or remove staff members.
 
+
 **Inventory Management:**
+
 1:Print all items in inventory.
+
 2:Add or remove items in inventory.
+
 
 **Getting Started**
 
 **Prerequisites**
+
 -Java Development Kit (JDK) 8 or later
+
 -Integrated Development Environment (IDE) like Eclipse, IntelliJ IDEA, or NetBeans
+
+
 **Setup**
+
 -Clone the Repository: Clone the repository to your local machine.
 git clone <repository-url>
+
 -Import the Project: Open your IDE and import the project as a Java project.
+
 -Compile the Code: Build the project to compile the source code.
+
 -Run the Application: Execute the HotelManagementSystem3 class to launch the application.
+
 
 **Usage**
 
 Starting the Application:
+
 Run the HotelManagementSystem3 class which contains the main method to start the GUI application.
 
 Navigating the GUI:
+
 Guest Menu: Provides options for making or deleting reservations.
+
 Manager Menu: Allows managers to manage reservations, rooms, staff, inventory, and hotel information.
+
 Staff Menu: Enables staff members to view and manage staff information.
+
 Inventory Menu: Provides options for managing inventory items.
+
 
 **Action Commands**
 
+
+
 **Guest Operations:**
+
 "EnterReservation" - Opens the reservation entry form.
+
 "DeleteReservation" - Opens the reservation deletion form.
+
 "PrintAllRoomsAvailability" - Prints the availability of all rooms.
 
 **Manager Operations:**
