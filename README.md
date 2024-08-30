@@ -1,5 +1,7 @@
 **Hotel Management System**
+
 **Overview**
+
 The Hotel Management System is a Java Swing application designed to manage various aspects of hotel operations. It provides functionality for managing reservations, rooms, staff, inventory, and hotel information. Users can interact with the system through a graphical user interface (GUI) with options for guests, staff, and managers.
 
 **Features**
